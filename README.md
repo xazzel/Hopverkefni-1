@@ -2,4 +2,4 @@
 
 Hægt er að keyra verkefnið með því að 
 
-Þeir sem unnu við verkefnið eru: xazzel(mea12) og bib51
+Þeir sem unnu við verkefnið eru: <code>xazzel(mea12)</code> og bib51
